@@ -1,2 +1,2 @@
-# my-serverless-portfolio
-Serverless experiments 
+# Karl's serverless stuff
+Uses AWS and ReactJS components 
